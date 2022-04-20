@@ -1,4 +1,4 @@
-# *GIT Commands*
+# *GIT Commands !!*
 ```
 DIRECTORY
 cd </file/path/code> -> change directory to a project
